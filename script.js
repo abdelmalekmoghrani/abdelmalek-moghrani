@@ -175,7 +175,7 @@ window.addEventListener("scroll", () => {
 
 const copyEmailButton = document.getElementById("copy-email");
 const copyEmialButtonText = document.getElementById("copy-email-text");
-const emailText = "abdelmalekdev@gmail.com";
+const emailText = "abdelmalekmoghrani@gmail.com";
 
 copyEmailButton.addEventListener("click", () => {
 
@@ -183,7 +183,7 @@ copyEmailButton.addEventListener("click", () => {
 
         copyEmialButtonText.innerText = "Copied! ✓";
         setTimeout(() => {
-            copyEmialButtonText.innerText = "Email";
+            copyEmialButtonText.innerText = "Copy Email";
         }, 2000);
 
     });
