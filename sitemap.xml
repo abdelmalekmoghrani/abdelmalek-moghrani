@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-       <loc>https://abdelmalekdev.github.io/abdelmalek-dev/</loc>
-       <lastmod>2026-09-17T22:39:23+00:00</lastmod>
+       <loc>https://abdelmalekmoghrani.github.io/abdelmalek-moghrani/</loc>
+       <lastmod>2026-10-31T19:36:23+00:00</lastmod>
        <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://abdelmalekmoghrani.github.io/abdelmalek-moghrani/linktree.html</loc>
+       <lastmod>2026-10-31T19:36:23+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://abdelmalekmoghrani.github.io/abdelmalek-moghrani/index.html</loc>
+       <lastmod>2026-10-31T19:36:23+00:00</lastmod>
+       <priority>0.6400</priority>
   </url>
 </urlset>
